@@ -1,0 +1,24 @@
+{
+  "name": "applights-sdk",
+  "version": "1.0.0",
+  "description": "Node.js Bluetooth SDK for Gimmy AppLights™",
+  "main": "index.js",
+  "dependencies": {
+    "noble": "github:PolideaInternal/noble#macos_highsierra"
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgibeau/applights-sdk"
+  },
+  "keywords": [
+    "node",
+    "sdk",
+    "applights"
+  ],
+  "author": "Maxime Gibeau <info@maxjbo.com>",
+  "contributors": [],
+  "license": "MIT"
+}
