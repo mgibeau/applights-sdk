@@ -4,6 +4,7 @@
   "description": "Node.js Bluetooth SDK for Gimmy AppLights™",
   "main": "index.js",
   "dependencies": {
+    "nearest-color": "^0.4.2",
     "noble": "github:PolideaInternal/noble#macos_highsierra"
   },
   "engines": {
