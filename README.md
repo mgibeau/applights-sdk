@@ -41,13 +41,6 @@ controller.turnOff().then(res).catch(err)
 controller.setTheme(theme).then(res).catch(err)
 ```
 
-## Todo
-
-  - [ ] Support multiple devices
-  - [ ] Unit tests
-  - [ ] Query for currently used theme
-  - [ ] Add missing effects
-
 
 ## Legal
 
