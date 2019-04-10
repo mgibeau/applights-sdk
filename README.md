@@ -1,5 +1,7 @@
 # NodeJS AppLights™ SDK
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mgibeau/applights-sdk.svg)](https://greenkeeper.io/)
+
 _Unofficial_ SDK for controlling Gimmy AppLights™ bluetooth devices.
 
 
